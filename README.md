@@ -9,3 +9,4 @@
 - 물품의 거래내역 또한 블록에 저장되므로 구매자가 직접 찾아볼 수 있다.
 
 ## 토큰 이코노미
+https://github.com/dngur6344/resell-market/issues/1#issue-411770044
